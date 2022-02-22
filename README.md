@@ -62,6 +62,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=smarterToby&show_icons=true&theme=radical)
+  ![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=smarterToby&show_icons=true&theme=radical&hide_border=false)
 
 </details>
