@@ -17,6 +17,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/i_love_tesla_too#gh-dark-mode-only)
 
 <br/>
+
 ---
 
 ### Languages and Tools:
@@ -41,6 +42,7 @@
 <align="left" alt="Java" width="26px" src="./img/java.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;" />
 <br/>
+
 ---
 
 <details>
