@@ -1,4 +1,4 @@
-### Hi there, I'm Tobi - aka smarterToby
+### Hi there, I'm Tobi - aka smarterToby 👋
 ## I'm a Apprentice, Developer and Golfer
 - 🔭 I'm currently working on my own website
 - 🌱 I'm currently learning everything 
