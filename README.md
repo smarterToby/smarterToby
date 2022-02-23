@@ -16,9 +16,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/i_love_tesla_too#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/i_love_tesla_too#gh-dark-mode-only)
 
-<br/>
 
-
+---
 
 ### Languages and Tools:
 
@@ -41,7 +40,6 @@
 <!-- [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only) -->
 <align="left" alt="Java" width="26px" src="./img/java.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;" />
-<br />
 
 ---
 
