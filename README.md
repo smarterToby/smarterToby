@@ -42,7 +42,6 @@
 <align="left" alt="Java" width="26px" src="./img/java.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;" />
 <br />
-<br />
 
 
 ---
