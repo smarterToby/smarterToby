@@ -66,6 +66,6 @@
   <br/>
   Website status 
   <br/> 
-  ![Netlify Status](https://api.netlify.com/api/v1/badges/8d9aefa6-cb04-43d7-83c2-3f6663cd5b97/deploy-status)]
+  ![Netlify Status](https://api.netlify.com/api/v1/badges/8d9aefa6-cb04-43d7-83c2-3f6663cd5b97/deploy-status)
 </details>
  
