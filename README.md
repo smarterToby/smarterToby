@@ -54,7 +54,7 @@
 <details>
   <summary>:globe_with_meridians: Website Status</summary>
   <br/>
-  I host my website with Netlify - [Watch It Live](tobiasreuss.tech) <br>
+  I host my website with Netlify - [Watch It Live](https://tobiasreuss.tech) <br/>
   Here you can see the status <br/>
   Website status <br/> 
   
