@@ -54,7 +54,7 @@
 <details>
   <summary>:globe_with_meridians: Website Status</summary>
   <br/>
- **I host my [Website](https://tobiasreuss.tech) with Netlify**
+ **I host my** [**Website**](https://tobiasreuss.tech) **with Netlify**
 Here you can see the current status of the website:
   
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8d9aefa6-cb04-43d7-83c2-3f6663cd5b97/deploy-status)](https://app.netlify.com/sites/testsite58/deploys)
