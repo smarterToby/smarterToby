@@ -38,6 +38,7 @@
 <img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;" />
 <br/>
 
+
 ---
 
 <details>
@@ -48,6 +49,7 @@
 
 </details>
 <br/>
+
 
 ---
   
