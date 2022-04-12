@@ -38,7 +38,6 @@
 <img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;" />
 <br/>
 
-
 ---
 
 <details>
@@ -48,6 +47,7 @@
   ![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=smarterToby&show_icons=true&theme=radical&hide_border=true)
 
 </details>
+<br/>
 
 ---
   
