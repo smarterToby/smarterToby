@@ -13,8 +13,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/tob#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tobiasreuss#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/i_love_tesla_too#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/i_love_tesla_too#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/i_love_tesa_too#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/i_loe_tesla_too#gh-dark-mode-only)
 <br/>
 
 
